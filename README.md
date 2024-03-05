@@ -1,4 +1,4 @@
-# ได้ยังคับพี่ ได้เถอะขอร้อง
+#  ได้เถอะขอร้อง
 
 # SOFTWARE-DEVELOPMENT-TOOLS-AND-ENVIRONMENTS
 
